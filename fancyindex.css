@@ -52,6 +52,7 @@ a {
 }
 
 .mdl-button, .mdl-list__item-avatar {
+    background: radial-gradient(circle at 30% 20%,#0d1b2a 0%,#1b263b 40%,#415a77 100%) !important;
     flex-shrink: 0;
 }
 
@@ -60,4 +61,8 @@ a {
     white-space: nowrap;
     text-overflow: ellipsis;
     flex-shrink: 1;
+}
+
+.mdl-layout__header {
+    background: radial-gradient(circle at 30% 20%,#0d1b2a 0%,#1b263b 40%,#415a77 100%) !important;
 }
