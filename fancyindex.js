@@ -178,6 +178,7 @@ var templateLink = `
         </a>
     </li>`;
 
+/*
 var pathelt = "/";
 arrayOfCurrentPath.forEach(function(element) {
     pathelt = pathelt + element + "/";
@@ -190,7 +191,7 @@ arrayOfCurrentPath.forEach(function(element) {
         )
     );
 });
-
+*/
 // list table
 var templateItem = `
     <li class="mdl-list__item item">
