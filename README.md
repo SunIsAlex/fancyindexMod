@@ -4,7 +4,7 @@ Theme "design material" for nginx-fancyindex module
 
 ![web](images/webview.png "Example of Nginx-Fancyindex-Theme view web")
 
-![mobile](images/mobileview.png "Example of Nginx-Fancyindex-Theme view web")
+![mobile](images/mobileview.jpg "Example of Nginx-Fancyindex-Theme view web")
 
 use icon from https://feathericons.com/
 
