@@ -66,3 +66,7 @@ a {
 .mdl-layout__header {
     background: radial-gradient(circle at 30% 20%,#0d1b2a 0%,#1b263b 40%,#415a77 100%) !important;
 }
+
+.mdl-button {
+    color:white;
+}
